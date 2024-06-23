@@ -3,9 +3,8 @@
 
 ### Hey 👋🏽, I'm Guru;  
 
-Hi, I'm Guru, a Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> 
+Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> 
 - Machine Learning - DevOp
-
 
 **Languages and Tools:**  
 
